@@ -1,0 +1,20 @@
+{
+  "name": "proj-mastering-immutablejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenStoneBlue/proj-mastering-immutablejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenStoneBlue/proj-mastering-immutablejs/issues"
+  },
+  "homepage": "https://github.com/KenStoneBlue/proj-mastering-immutablejs#readme"
+}
